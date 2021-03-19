@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "chat server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eduardo Fagundes",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  }
+}
